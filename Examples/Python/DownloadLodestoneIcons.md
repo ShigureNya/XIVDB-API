@@ -91,5 +91,4 @@ print('Icons Downloaded: %d' % (total))
 print('Icons Success: %d' % (success))
 print('Icons Failed: %d' % (failed))
 print('Icons Skipped: %d' % (skipped))
-
 ```
